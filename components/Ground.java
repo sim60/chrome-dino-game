@@ -66,4 +66,4 @@ public class Ground {
 			g.drawImage(img.image, (int) img.x, GROUND_Y, null);
 		}
 	}
-}
+/*<--- nice*/ }
